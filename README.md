@@ -10,4 +10,5 @@
 
 ---
 ## 🌐 Open Source:
-🤗 [Hugging Face](https://huggingface.co/) - See my contribution [PR #327](https://github.com/huggingface/agents-course/pull/327)
+ - [Hugging Face](https://huggingface.co/) - See my contribution [PR #327](https://github.com/huggingface/agents-course/pull/327)
+ - [kubeflow SDK](https://sdk.kubeflow.org/en/latest/) - See my contribution [PR #188](https://github.com/kubeflow/sdk/pull/188)
